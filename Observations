@@ -1,0 +1,14 @@
+ #Observations
+•	Passwords containing only lowercase letters or simple patterns were marked weak.
+•	Adding uppercase letters, numbers and symbols significantly increased strength.
+•	Longer passwords (12+ characters) scored higher due to increased entropy.
+•	Randomness and unpredictability improved results more than complexity alone.
+#Best Practices for Creating Strong Passwords
+•	Use minimum 12–16 characters
+•	Include uppercase, lowercase, numbers, and special symbols
+•	Avoid names, dates, keyboard patterns (123456, qwerty), and dictionary words
+•	Use passphrases instead of single words (e.g., Sunset@River!2025)
+•	Never reuse passwords across multiple accounts
+•	Use a password manager to store complex passwords
+•	Enable multi-factor authentication (MFA) wherever possible
+
